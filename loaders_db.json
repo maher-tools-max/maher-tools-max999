@@ -1,17 +1,67 @@
-﻿{
-  "version": "1.0",
+{
+  "version": "1.1",
   "qualcomm": {
     "redmi_note_8": {
       "brand": "Xiaomi",
       "cpu": "SDM665",
       "filename": "prog_emmc_firehose_Sm6125.mbn",
-      "download_url": "https://raw.githubusercontent.com/maher-tools-max/Maher-Tools-DB/main/loaders/xiaomi/prog_emmc_firehose_Sm6125.mbn"
+      "download_url": "https://raw.githubusercontent.com/maher-tools-max/maher-tools-max999/main/loaders/xiaomi/prog_emmc_firehose_Sm6125.mbn"
+    },
+    "redmi_note_10": {
+      "brand": "Xiaomi",
+      "cpu": "SDM678",
+      "filename": "prog_emmc_firehose_Sm6150.mbn",
+      "download_url": "https://raw.githubusercontent.com/maher-tools-max/maher-tools-max999/main/loaders/xiaomi/prog_emmc_firehose_Sm6150.mbn"
+    },
+    "poco_x3": {
+      "brand": "Poco",
+      "cpu": "SDM732G",
+      "filename": "prog_emmc_firehose_Sm7150.mbn",
+      "download_url": "https://raw.githubusercontent.com/maher-tools-max/maher-tools-max999/main/loaders/poco/prog_emmc_firehose_Sm7150.mbn"
+    },
+    "oneplus_nord": {
+      "brand": "OnePlus",
+      "cpu": "SDM765G",
+      "filename": "prog_emmc_firehose_Sm7250.mbn",
+      "download_url": "https://raw.githubusercontent.com/maher-tools-max/maher-tools-max999/main/loaders/oneplus/prog_emmc_firehose_Sm7250.mbn"
     },
     "samsung_a70": {
       "brand": "Samsung",
       "cpu": "SM6150",
       "filename": "prog_emmc_firehose_sm6150.mbn",
-      "download_url": "https://raw.githubusercontent.com/maher-tools-max/Maher-Tools-DB/main/loaders/samsung/prog_emmc_firehose_sm6150.mbn"
+      "download_url": "https://raw.githubusercontent.com/maher-tools-max/maher-tools-max999/main/loaders/samsung/prog_emmc_firehose_sm6150.mbn"
+    },
+    "samsung_a51": {
+      "brand": "Samsung",
+      "cpu": "SM6150",
+      "filename": "prog_emmc_firehose_sm6150_a51.mbn",
+      "download_url": "https://raw.githubusercontent.com/maher-tools-max/maher-tools-max999/main/loaders/samsung/prog_emmc_firehose_sm6150_a51.mbn"
+    }
+  },
+  "mediatek": {
+    "redmi_note_9": {
+      "brand": "Xiaomi",
+      "cpu": "Helio G85",
+      "filename": "MT6768_DA.bin",
+      "download_url": "https://raw.githubusercontent.com/maher-tools-max/maher-tools-max999/main/loaders/mtk/MT6768_DA.bin"
+    },
+    "realme_c3": {
+      "brand": "Realme",
+      "cpu": "Helio G70",
+      "filename": "MT6765_DA.bin",
+      "download_url": "https://raw.githubusercontent.com/maher-tools-max/maher-tools-max999/main/loaders/mtk/MT6765_DA.bin"
+    },
+    "infinix_hot10": {
+      "brand": "Infinix",
+      "cpu": "Helio G70",
+      "filename": "MT6765_DA_infinix.bin",
+      "download_url": "https://raw.githubusercontent.com/maher-tools-max/maher-tools-max999/main/loaders/mtk/MT6765_DA_infinix.bin"
+    },
+    "tecno_spark7": {
+      "brand": "Tecno",
+      "cpu": "Helio A25",
+      "filename": "MT6761_DA.bin",
+      "download_url": "https://raw.githubusercontent.com/maher-tools-max/maher-tools-max999/main/loaders/mtk/MT6761_DA.bin"
     }
   }
 }
